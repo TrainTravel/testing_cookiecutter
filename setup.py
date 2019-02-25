@@ -15,8 +15,8 @@ def read(filename):
 
 setup(
     name="testing_cookiecutter",
-    version="0.1.0",
-    url="https://github.com/TrainTravel/testing_pypackaging.git",
+    version="0.1.1",
+    url="https://github.com/TrainTravel/testing_cookiecutter.git",
     license='MIT',
 
     author="Train Chen",
